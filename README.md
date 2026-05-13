@@ -1,4 +1,4 @@
-"""# Object-Oriented Design Vault 🏗️
+# Manav's Object-Oriented Design Vault 🏗️
 
 Welcome to my comprehensive knowledge base for Object-Oriented Design (OOD) and Low-Level Design (LLD). 
 
@@ -135,18 +135,30 @@ When designing systems, consider how objects behave when accessed by multiple th
 
 ---
 
-## 🎯 Top LLD Practice Problems
+## 🎯 LLD Case Studies
 
-* Design a Parking Lot
-* Design a Vending Machine
-* Design an Elevator System
-* Design a Movie Ticket Booking System (BookMyShow)
-* Design a Library Management System
-* Design Tic-Tac-Toe / Chess
-* Design an ATM
-"""
+Here are the detailed system designs and case studies included in this repository:
 
-with open("README.md", "w") as f:
-    f.write(content)
-
-print("Expanded README.md generated successfully")
+* [ATM](./Case%20Study/ATM)
+* [Amazon / Flipkart](./Case%20Study/Amazon-Flipkart)
+* [BookMyShow](./Case%20Study/BookMyShow)
+* [Car Rental System](./Case%20Study/Car%20Rental%20System)
+* [Chess](./Case%20Study/Chess)
+* [Concert Ticket Booking System](./Case%20Study/Concert%20Ticket%20Booking%20System)
+* [Cricbuzz](./Case%20Study/Cricbuzz)
+* [Elevator System](./Case%20Study/Elevator%20System)
+* [Food Delivery Service](./Case%20Study/Food%20Delivery%20Service)
+* [LRU Cache](./Case%20Study/LRU%20Cache)
+* [Library Management System](./Case%20Study/Library%20Management%20System)
+* [LinkedIn](./Case%20Study/LinkedIn)
+* [Online Stock Brokerage](./Case%20Study/Online%20Stock%20Brokerage)
+* [Parking Lot](./Case%20Study/Parking%20Lot)
+* [Snake and Ladder](./Case%20Study/Snake%20and%20Ladder)
+* [Splitwise](./Case%20Study/Splitwise)
+* [Spotify](./Case%20Study/Spotify)
+* [Swiggy / Zomato](./Case%20Study/Swiggy-Zomato)
+* [Task Management System](./Case%20Study/Task%20Management%20System)
+* [Tic Tac Toe](./Case%20Study/Tic%20Tac%20Toe)
+* [Traffic Control System](./Case%20Study/Traffic%20Control%20System)
+* [Uber / Ola / Rapido](./Case%20Study/Uber-Ola-Rapido)
+* [Vending Machine](./Case%20Study/Vending%20Machine)
